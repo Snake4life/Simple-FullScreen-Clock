@@ -37,8 +37,8 @@ Simple Fullscreen Clock
 
 以下仅为示例写法，可自由组合参数
 
-* **默认样式：** https://dmscode.github.io/Simple-FullScreen-Clock/
-* **老鼠自用：** https://dmscode.github.io/Simple-FullScreen-Clock/#more-breathe
+* **默认样式：** https://snake4life.github.io/Simple-FullScreen-Clock/
+* **老鼠自用：** https://snake4life.github.io/Simple-FullScreen-Clock/#more-breathe
 
 更新日志
 ---
